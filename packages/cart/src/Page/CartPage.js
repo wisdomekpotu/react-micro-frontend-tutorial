@@ -160,4 +160,5 @@ const CartPage = () => {
     </Container>
   );
 };
+
 export default CartPage;
