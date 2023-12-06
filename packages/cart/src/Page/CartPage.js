@@ -1,4 +1,3 @@
-// Page/Cartpage.js
 import React from 'react';
 import {
   Container,
