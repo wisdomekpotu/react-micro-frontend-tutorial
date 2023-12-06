@@ -88,7 +88,6 @@ const CartPage = () => {
             </GridItem>
           </SimpleGrid>
         </VStack>
-
         <VStack
           w='full'
           h='full'
